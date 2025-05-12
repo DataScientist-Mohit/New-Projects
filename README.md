@@ -35,6 +35,7 @@ The dashboard utilizes a variety of visualizations to present the data, includin
     * Determine which regions are driving the most sales.
     * Optimize delivery processes to reduce order-to-delivery time.
     * Understand how sales vary by day, month and occasion.
+![Screenshot 2025-05-11 165542](https://github.com/user-attachments/assets/1de274ef-59a8-429a-b0e8-b43979b8f9fe)
 
 ## Author
 Mohit Singh
