@@ -1,4 +1,4 @@
-# [Ferns n Petals] Sales Analysis 
+# [Ferns & Petals] Sales Analysis 
 This repository contains a sales analysis dashboard, providing key insights into sales performance. The dashboard includes visualizations and metrics to help understand revenue, order trends, and product performance.  This dashboard was created in Excel using Power Pivot, Power Query, and a star schema.
 
 ## Key Features
